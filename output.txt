@@ -1,0 +1,10 @@
+All the digits of your num added up is: 4
+4 is a power of 4
+All the digits of your num added up is: 5
+5 is not a power of 4
+All the digits of your num added up is: 7
+16 is a power of 4
+All the digits of your num added up is: 44
+5438978 is not a power of 4
+All the digits of your num added up is: 0
+0 is not a power of 4
